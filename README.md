@@ -1,2 +1,2 @@
 # Laravel-Chat
-site de communication entre des personnes avec laravel 5.7
+site de communication entre deux personnes avec laravel 5.7
